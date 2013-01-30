@@ -25,7 +25,7 @@ body {
 	overflow-y: scroll;
 	padding-left: 10px;
 	padding-top: 20px;
-	min-width: 800px;
+	min-width: 800px
 	width: 100%;
 
 	-webkit-transition: all 600ms;
@@ -206,7 +206,7 @@ article a:hover {
 	-ms-transition: all 400ms ease-in-out;
 	-o-transition: all 400ms ease-in-out;
 	transition: all 400ms ease-in-out;
-	
+
 	background-color: deepskyblue;
 	position: absolute;
 	bottom: 0px;
